@@ -1,4 +1,3 @@
-```markdown
 # Verilog EDA Automation Framework
 
 A professional Python automation framework for VLSI RTL design projects.
@@ -195,4 +194,3 @@ The file `sample_regression_report.html` in this repo shows an example dashboard
 ---
 
 *Built to support an 8-repository VLSI learning roadmap — from AND gate to 16-bit pipelined RISC processor.*
-```
